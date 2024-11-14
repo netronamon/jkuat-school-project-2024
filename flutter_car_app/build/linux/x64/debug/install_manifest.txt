@@ -1,0 +1,13 @@
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/potbump_detection_app
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/flutter_assets/packages/flutter_map/lib/assets/flutter_map_logo.png
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/home/alkennist/projectsforschoolers/neutron/potbump_detection_app/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
