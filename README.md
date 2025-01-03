@@ -1,1 +1,0 @@
-# jkuat-school-project-2024
